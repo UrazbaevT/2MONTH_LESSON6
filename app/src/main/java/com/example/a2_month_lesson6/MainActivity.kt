@@ -1,8 +1,8 @@
 package com.example.a2_month_lesson6
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import androidx.appcompat.app.AppCompatActivity
 import com.example.a2_month_lesson6.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
